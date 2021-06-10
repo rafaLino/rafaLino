@@ -33,3 +33,4 @@ jobs:
         with:
           # github user name
           github_user_name: rafaLino
+          git_out_path: ./github-contribution-grid-snake.svg
