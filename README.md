@@ -85,4 +85,4 @@ Here some techologies that I work or study about:
 </p>
 
 
-![Snake animation](https://github.com/rafaLino/rafaLino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaLino/rafaLino/blob/master/github-contribution-grid-snake.gif)
