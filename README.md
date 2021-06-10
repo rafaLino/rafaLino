@@ -17,7 +17,7 @@
     alt="gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Outlook-007ACC?style=flat&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-007ACC?style=flat&logo=gmail&logoColor=red" />
   </a>
   <a
     href="https://www.linkedin.com/in/rafaellinosantos" 
