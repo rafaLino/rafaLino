@@ -33,20 +33,6 @@
   >
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
   </a>
-  <a
-    href="https://www.facebook.com/rafaellinosantos" 
-    alt="Facebook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Facebook-007ACC?style=flat&logo=Facebook&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/rafaellino__" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Instagram-563D7C?style=flat&logo=Instagram&logoColor=white" />
-  </a>
 </p>
 
 
