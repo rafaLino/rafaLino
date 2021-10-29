@@ -7,9 +7,6 @@
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in <b>Analysis and Systems Development</b> 
 </p>
-<p align="center">
- &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>moments.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>.NET</b> and <b>Node.js</b>
-</p>
 
 <p align="center">   
   <a
