@@ -10,13 +10,6 @@
 
 <p align="center">   
   <a
-    href="mailto:rafael.linosp@gmail.com" 
-    alt="gmail"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=red" />
-  </a>
-  <a
     href="https://www.linkedin.com/in/rafaellinosantos" 
     alt="LinkedIn"
     target="blank"
