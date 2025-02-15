@@ -1,11 +1,12 @@
 <h4 align="center">
-  Hey there, I'm Rafael.
+  Hey there, I'm Lino.
 </h4>
 <p align="center">
-  🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currenty a Software Developer.
+  👨‍💻 Software Developer. &nbsp;
+  🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> 
 </p>
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in <b>Analysis and Systems Development</b> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Tell what you need and I'll code it.
 </p>
 
 <p align="center">   
