@@ -6,7 +6,7 @@
   🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> 
 </p>
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Tell what you need and I'll code it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Tell me what you need and I'll code it.
 </p>
 
 <p align="center">   
